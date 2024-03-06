@@ -1,0 +1,1 @@
+This repository demonstrates what is explained in https://dev-otion.com/en/entry/what-is-transient-storage-its-applications-and-security-considerations
